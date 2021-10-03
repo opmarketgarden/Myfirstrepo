@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>sellinium</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Driver/chromedriver1.exe</name>
+			<type>1</type>
+			<location>C:/Users/91994/eclipse-workspace/sellinium/Driver1/chromedriver.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
