@@ -19,7 +19,8 @@ public class base {
 	if(name.equalsIgnoreCase("chrome"))
 	{	
      System.setProperty("webdriver.chrome.driver","C:\\Users\\91994\\eclipse-workspace\\sellinium\\Driver\\chromedriver.exe");
-     driver = new ChromeDriver();   
+     driver = new ChromeDriver();  
+     //s
 	}
 }
   

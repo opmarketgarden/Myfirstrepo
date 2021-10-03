@@ -10,7 +10,6 @@ public class Seliniumconcepts {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.axisbank.com");
 		driver.findElement(By.className("hi")).click();
-		
 	}
 
 }

@@ -22,6 +22,7 @@ public class automationpractise {
     options.addArguments("--headless");
     //options.addArguments("start-maximized");
     //options.addArguments("--diableinfobar");
+    //g
     
     driver.manage().window().maximize();
     //driver.manage().wait(2, nanos);
